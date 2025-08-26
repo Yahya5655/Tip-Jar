@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy - Pi Tip Jar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: #0b0f14;
+      color: #e8eef7;
+      margin: 0;
+      padding: 24px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #111827;
+      border: 1px solid #1f2937;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 6px 24px rgba(0,0,0,.35);
+    }
+    h1, h2 {
+      color: #fff;
+    }
+    a { color: #8ab4ff; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> 26-08-2025</p>
+
+    <p>Tip Jar (“the App”, “we”, “our”, or “us”) respects your privacy. 
+    This Privacy Policy explains how we collect, use, and protect your information when you use the App on the Pi Network.</p>
+
+    <h2>Information We Collect</h2>
+    <ul>
+      <li><strong>Pi Network Login Data:</strong> your Pi username and authentication details provided by the Pi SDK.</li>
+      <li><strong>Payment Information:</strong> basic transaction details (amount, memo, metadata) necessary to process tips through the Pi Network.</li>
+      <li>We <strong>do not</strong> collect personal information beyond what is provided by Pi Network SDK.</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <ul>
+      <li>To authenticate users via Pi Network.</li>
+      <li>To process, verify, and complete Pi payments.</li>
+      <li>To generate and display QR codes or shareable tip links.</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <p>We do not store sensitive data permanently. Transaction data is verified via Pi Network APIs and not retained longer than required for payment confirmation.</p>
+
+    <h2>Sharing of Information</h2>
+    <p>We do not sell, rent, or share your information with third parties. Payment verification is handled securely through official Pi Network APIs.</p>
+
+    <h2>Security</h2>
+    <p>We take reasonable steps to protect your information. However, no system is 100% secure, and we rely on Pi Network’s infrastructure for payment security.</p>
+
+    <h2>Children’s Privacy</h2>
+    <p>The App is not intended for children under 13.</p>
+
+    <h2>Changes</h2>
+    <p>We may update this Privacy Policy from time to time. Updates will be posted here.</p>
+
+    <h2>Contact</h2>
+    <p>For questions or concerns about this Privacy Policy, contact us at: <a href="mailto:your@email.com">dungeonreaper26@gmail.com</a></p>
+  </div>
+</body>
+</html>
